@@ -1,7 +1,8 @@
+[![Build Status](https://dev.azure.com/tailspin2743/Space%20Game%20-%20web/_apis/build/status/Loreno10.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin2743/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
